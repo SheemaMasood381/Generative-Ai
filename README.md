@@ -12,8 +12,7 @@ This repository contains various projects and experiments related to Generative 
 - `Voice to Voice chatbot/`: Scripts and models for a voice-to-voice chatbot.
 - `Working WIth APIs/`: Projects and experiments involving API integrations.
 
-
-4. **Deployment**:
+**Deployment**:
    Follow Hugging Face's [deployment documentation](https://huggingface.co/docs) to deploy your chatbot. Ensure you have the necessary API keys and access tokens.
 
 ## Contributing
