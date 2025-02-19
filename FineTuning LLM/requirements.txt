@@ -1,0 +1,10 @@
+transformers 
+gradio 
+openai
+torch
+datasets  
+tqdm 
+matplotlib 
+peft 
+lion-pytorch
+
