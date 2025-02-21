@@ -2,4 +2,6 @@ gradio
 transformers
 pdfplumber
 python-docx
-
+torch
+torchvision
+torchaudio
