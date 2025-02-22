@@ -1,0 +1,5 @@
+arxiv
+wikipedia
+pymupdf
+langchain
+langchain_community

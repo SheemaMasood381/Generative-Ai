@@ -1,0 +1,10 @@
+chromadb
+dotenv
+langchain_huggingface
+langchain
+sentence-transformers 
+transformers 
+codecarbon
+tf-keras
+
+
