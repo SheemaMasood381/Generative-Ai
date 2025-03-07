@@ -1,8 +1,6 @@
-
 # Generative AI (Module 5)
 
-
-This repository contains various projects and experiments related to Generative AI, primarily developed using Jupyter Notebooks and Python. The main focus of these projects is to explore and implement different generative models and techniques.
+This repository contains various projects and experiments related to Generative AI, primarily developed using Jupyter Notebooks and Python. The main focus of these projects is to explore and implement various generative AI techniques and tools.
 
 ## Folder Structure
 
@@ -11,6 +9,7 @@ This repository contains various projects and experiments related to Generative 
 - `Text Summarizer/`: Implementations related to text summarization techniques.
 - `Voice to Voice chatbot/`: Scripts and models for a voice-to-voice chatbot.
 - `Working WIth APIs/`: Projects and experiments involving API integrations.
+- `Frameworks/`: Contains various frameworks and tools used for data ingestion, transformation, embeddings, and vector operations.
 
 **Deployment**:
    Follow Hugging Face's [deployment documentation](https://huggingface.co/docs) to deploy your chatbot. Ensure you have the necessary API keys and access tokens.
